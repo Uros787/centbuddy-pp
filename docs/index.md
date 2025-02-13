@@ -1,53 +1,85 @@
-**Privacy Policy for CentBuddy**
-
+**Privacy Policy & Terms of Use for CentBuddy**
 Effective Date: 12.02.2025
 
-At CentBuddy, we respect your privacy and are committed to safeguarding the personal information you share with us. This Privacy Policy explains how we collect, use, and protect your data when you use the CentBuddy app (the "App"). By using the App, you agree to the practices described in this Privacy Policy.
+Welcome to CentBuddy! By using the CentBuddy mobile application (the "App"), you agree to these Privacy Policy & Terms of Use ("Agreement"). Please read them carefully to understand your rights and responsibilities.
 
-1. Information We Collect
-We collect the following types of information when you use CentBuddy:
+1. Privacy Policy
 
-Personal Information: If you subscribe to our in-app subscriptions (monthly or yearly), your payment information is handled through Apple's or Google's payment systems. We do not collect or store your credit card details. The only personal information we may have is your account details, such as your name and email, which are processed via these third-party payment systems.
+1.1 Information We Collect
 
-Usage Data: We do not collect non-personally identifiable data regarding how you interact with the App. This includes your device type, operating system, app features used, and other usage statistics that help us improve the App.
+We collect and process limited information strictly necessary for the app's functionality, including:
 
-2. How We Use Your Information
-We use your information for the following purposes:
+Subscription & Payment Data: When you purchase a monthly or yearly subscription, your payment details are handled securely through Apple App Store, Google Play, and RevenueCat (our subscription management provider). We do not store your credit card or payment details.
 
-To Provide In-App Subscriptions: Your payment details are processed by Apple or Google to manage your subscription.
-To Improve the App: We analyze usage data to enhance the user experience and app functionality.
-To Communicate with You: We may send updates and notifications about new features, subscription renewals, and important information regarding your use of the App.
+1.2 How We Use Your Information
 
-3. In-App Purchases and Subscriptions
-CentBuddy offers in-app subscription options, including monthly and yearly plans. All payments for subscriptions are processed through Apple's or Google's payment systems, which means we do not store your financial information.
+We use collected data to:
 
-Subscription Renewal: Your subscription will automatically renew at the end of each billing cycle unless canceled. You can manage or cancel your subscription through your device’s settings (via Apple or Google).
-Subscription Cancellation: You may cancel your subscription at any time. After cancellation, you will retain access to the premium features until the end of your current billing period.
+Process and manage subscriptions via RevenueCat
+Send important updates related to billing, renewals, or changes to services
 
-4. Data Storage and Security
-All information entered or generated within the app is stored locally on your device. We do not collect or store any data remotely, and we do not have access to your personal data or usage information unless it is shared with us directly through in-app subscriptions. Your data is entirely under your control.
+1.3 Data Storage & Security
 
-Data Deletion: If you uninstall the app, any locally stored data will be deleted permanently unless backed up by your device's backup functionality.
-Security: We use standard industry practices to ensure your data is secure on your device. However, please note that no method of data storage or transmission is completely secure, and we cannot guarantee the absolute security of your information.
+All financial transactions are processed securely via Apple, Google, and RevenueCat.
+Your financial data is never stored or accessed by us.
+Locally Stored Data: Any personal finance information you input into the app is stored only on your device. We do not have access to it.
+Data Deletion: Uninstalling the app will delete all locally stored data unless you have backed it up using your device’s backup system.
 
-5. Third-Party Services
-RevenueCat is a third-party service used to manage subscriptions and handle purchase-related data. When you make a purchase, RevenueCat collects information related to your subscription for the purpose of managing billing, renewals, and subscription status. This data may include your name, email address, and subscription history.
-We do not collect or store sensitive payment details directly. Payment processing is handled through Apple or Google, and all sensitive payment information is managed securely by these services.
-You can review RevenueCat’s Privacy Policy here[https://revenuecat.com/privacy].
+1.4 Third-Party Services
 
-6. Cookies and Tracking Technologies
-CentBuddy does not use cookies, tracking technologies, or any other method to collect personal data. All information remains stored locally on your device, and no data is transmitted to external servers.
+We use RevenueCat for subscription management. You can review their privacy policy here.
 
-7. Children’s Privacy
-CentBuddy is not intended for children under the age of 13, and we do not knowingly collect personal data from anyone under 13 years old. Since no personal data is collected, no special measures are necessary for protecting children’s privacy.
+1.5 Cookies & Tracking
 
-8. Your Data, Your Control
-Since all your data is stored locally on your device, you have complete control over it. We do not have access to your data and cannot modify, view, or delete it. If you wish to delete the data, you can do so by uninstalling the app, which will remove all data from your device (unless backed up).
+CentBuddy does not use cookies, tracking technologies, or third-party analytics that collect personal data.
 
-9. Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. Any changes will be posted within the app, and we encourage you to review the policy periodically for updates.
+1.6 Children’s Privacy
 
-10. Contact Us
-If you have any questions about this Privacy Policy or how we handle your data, please contact us at:
+CentBuddy is not intended for children under 13. We do not knowingly collect any data from children under 13.
 
-Email: [iturosstojanovic@gmail.com]
+1.7 Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted within the app, and we encourage you to check regularly.
+
+2. Terms of Use
+
+By using CentBuddy, you agree to comply with these terms.
+
+2.1 License & Usage Rights
+
+CentBuddy grants you a non-exclusive, non-transferable, limited license to use the App.
+You may not modify, distribute, or reverse-engineer any part of the App.
+
+2.2 Subscription & Payment Terms
+
+CentBuddy offers monthly and yearly subscriptions via Apple App Store & Google Play.
+Auto-renewal: Your subscription automatically renews unless you cancel it at least 24 hours before the renewal date.
+Cancellation: You can cancel your subscription in Apple or Google account settings.
+Refunds: We follow Apple & Google Play refund policies—refunds are handled directly by those platforms.
+
+2.3 User Responsibilities
+
+You agree that you will:
+
+Use the app only for personal use (not for resale or commercial purposes).
+Not attempt to hack, exploit, or disrupt the service.
+Comply with app store terms and conditions.
+
+2.4 Limitation of Liability
+
+CentBuddy is provided "as is" without warranties.
+We are not responsible for any data loss resulting from your use of the app.
+We do not provide financial, legal, or tax advice—CentBuddy is for personal budgeting purposes only.
+
+2.5 Termination
+
+We may suspend or terminate your access to CentBuddy if you violate these terms.
+
+2.6 Changes to Terms of Use
+
+CentBuddy may update these Terms at any time. Continued use of the app after updates means you accept the new terms.
+
+3. Contact Us
+
+For privacy or terms inquiries, contact us:
+📧 iturosstojanovic@gmail.com
